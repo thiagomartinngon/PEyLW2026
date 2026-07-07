@@ -1,0 +1,16 @@
+Teoría Programación estática y laboratorio web:
+
+TP5:
+
+Ejercicio 3:
+ ¿En cual de los archivos resultó más fácil el cambio?
+Me pareció mucha más fácil en "LaVidaAlReves Ej1_conCSS.html" ya que directamente busqué el color que quería dentro del visual con la paleta.
+En cambio con el otro tuve que buscar en una paleta externa y copiar y pegar los códigos de los colores que quería.
+
+¿Le parece que la diferencia podría ser notoria en archivos complejos o sitios grandes?
+Supongo que en un proyecto más difícil si se va a notar la diferencia por que son más cosas que se van a tener que modificar, pero por ahora no hubo diferencia (más que en el cambio de tonos de los colores), y respecto a los códigos, ahí si se nota una diferencia.
+
+Ejercicio 5:
+¿Cuál de los dos archivos le llevó más tiempo?
+El GlobalizacionEj4_conCSS.html fue más fácil, pero tuve que buscar como hacerlo.
+Y el GlobalizacionEj4_sinCSS.html fue también bastante fácil, pero me tardé poniendo "<b>" en cada párrafo con itálica.
